@@ -1,0 +1,7 @@
+this is the first file created
+Name on the card -  <any name>;
+Card number - “411111111111111111”; 
+warning: when doing copy/paste of the CreditCard number from GoogleDocs, for some strange reason the last 2  “1” digits from the credit card number are not copied and it can create issues (this is a VISA card number, has to have 16 digits);
+Expiration Month - “11”;
+Expiration Year - “2014”;
+CVV - “123”;
